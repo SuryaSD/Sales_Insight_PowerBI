@@ -53,4 +53,4 @@ Removing garbage values like: -1,0 values removing from trasaction table, USD to
 
 ### Create Power BI Dashboard
 
-![image](https://github.com/SuryaSD/Sales_Insight_PowerBI/blob/main/Power%20BI_Report.PNG)
+![image](https://github.com/SuryaSD/Sales_Insight_PowerBI/blob/main/Power%20BI_Dashboard.PNG)
